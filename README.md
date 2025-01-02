@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Kota Hatanaka, a student of Sophia University in Japan
+## Hi there 👋
 
 <!--
 **SUBSCHOLARS/SUBSCHOLARS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
