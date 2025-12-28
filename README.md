@@ -7,6 +7,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,c,cpp,cs,java,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=unity,c,cpp,cs,java,notion,vscode,idea" />
   </a>
 </p>
