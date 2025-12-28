@@ -10,7 +10,3 @@
     <img src="https://skillicons.dev/icons?i=unity,c,cpp,cs,java,notion,vscode,idea" />
   </a>
 </p>
-
-## Stats
-
-[![SUBSCHOLARS's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUBSCHOLARS)](https://github.com/SUBSCHOLARS/github-readme-stats)
